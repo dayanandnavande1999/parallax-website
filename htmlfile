@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="3.css"/>
+</head>
+<body>
+   <section class="pimg1" >
+   <div class="ptext" >
+    <span class="textbg">
+parallax website
+</span>
+ </div>
+</section> 
+<section class="section section-light">
+<h2>section one</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure quia quisquam aperiam veritatis fuga velit? Fugit distinctio maiores error praesentium dolorem reiciendis dolore in, sit minus! Inventore non culpa doloribus optio odio veniam, deserunt debitis. Natus eveniet eum corporis pariatur suscipit dolorem velit, laborum minima at sed dolores consequuntur blanditiis libero quas harum odit dignissimos provident minus aspernatur doloribus! Minus pariatur et sed veniam! Deleniti hic aliquid odit nisi ex voluptatem. Magni neque velit aperiam dignissimos, vero fuga eius eum nihil impedit nam ut quas dolore soluta unde qui dolores laboriosam excepturi obcaecati accusantium delectus. Eum ducimus id debitis eligendi!</p>
+</section>
+<section class="pimg2">
+<div class="ptext">
+    <span class="textbg">Explore Nature</span>
+</div>
+</section>
+<section class="section section-light">
+<h2>section two</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis modi eum itaque ea iste nesciunt ducimus? Totam odit consequuntur voluptas maiores magni sapiente, cumque consectetur corporis sit tempora nostrum tempore doloremque iste aspernatur dicta, sed excepturi saepe possimus culpa modi quia odio fugit velit? Cupiditate praesentium ex nisi molestias unde aliquam consequuntur delectus aliquid, sed aut suscipit autem eveniet iure! Exercitationem ut illo quis quod maxime commodi, perspiciatis saepe vel explicabo odit dolor numquam sit dicta vero veniam dignissimos libero iure pariatur facilis consequatur nobis. Accusamus deleniti laboriosam vel illo asperiores perferendis optio rem voluptate minus? Quae voluptate blanditiis eligendi.</p>
+</section>
+<section class="pimg3">
+    <div class="ptext">
+        <span class="textbg">web developer</span>
+    </div>
+    </section>
+    <section class="section section-light">
+    <h2>section three</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis modi eum itaque ea iste nesciunt ducimus? Totam odit consequuntur voluptas maiores magni sapiente, cumque consectetur corporis sit tempora nostrum tempore doloremque iste aspernatur dicta, sed excepturi saepe possimus culpa modi quia odio fugit velit? Cupiditate praesentium ex nisi molestias unde aliquam consequuntur delectus aliquid, sed aut suscipit autem eveniet iure! Exercitationem ut illo quis quod maxime commodi, perspiciatis saepe vel explicabo odit dolor numquam sit dicta vero veniam dignissimos libero iure pariatur facilis consequatur nobis. Accusamus deleniti laboriosam vel illo asperiores perferendis optio rem voluptate minus? Quae voluptate blanditiis eligendi.</p>
+    </section>
+</body>
+</html>
