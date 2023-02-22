@@ -1,41 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="3.css"/>
-</head>
-<body>
-   <section class="pimg1" >
-   <div class="p1text" >
-    <span class="textbg">
-Virat Kohli
-</span>
- </div>
-</section> 
-<section class="section section-light">
-<h2>Early life</h2>
-<p>Virat Kohli was born on 5 November 1988 in Delhi to a Punjabi Khatri Hindu family.[8] His father, Prem Kohli, worked as a criminal lawyer and his mother, Saroj Kohli, is a housewife.[9] He has an older brother, Vikas, and an older sister, Bhawna.[10] According to his family, when he was three-years old, Kohli would pick up a cricket bat, start swinging it and ask his father to bowl at him.[11]</p>
-</section>
-<section class="pimg2">
-<div class="ptext">
-    <span class="textbg">virat's career</span>
-</div>
-</section>
-<section class="section section-light">
-<h2>career</h2>
-<p>Kohli first played for Delhi Under-15 team in October 2002 in the 2002–03 Polly Umrigar Trophy. He was the leading run-scorer for his team in that tournament with 172 runs at an average of 34.40.[18] He became the captain of the team for the 2003–04 Polly Umrigar Trophy; scored 390 runs in 5 innings at an average of 78 including two centuries and two fifties.[19][20] In late 2004, Kohli got selected in the Delhi Under-17 team for the 2004–05 Vijay Merchant Trophy. He scored 470 runs in four matches at an average of 117.50 with two hundreds and top-score of 251* in that tournament.[21] Delhi Under-17s won the next years Vijay Merchant Trophy in which Kohli finished as the highest run-scorer with 757 runs from 7 matches at an average of 84.11 that included two centuries.[22]</p>
-</section>
-<section class="pimg3">
-    <div class="ptext">
-        <span class="textbg">virat's life</span>
-    </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Parallax Website</title>
+    <link rel="stylesheet" href="p.css">
+  </head>
+  <body>
+    <section class="pimg1">
+      <div class="ptext">
+        <span class="textBg"> Parallax Website </span>
+      </div>
     </section>
     <section class="section section-light">
-    <h2>Personal Life</h2>
-    <p>Kohli started dating Bollywood actress Anushka Sharma in 2013; the couple soon earned the portmanteau "Virushka".[396][397] Their relationship attracted substantial media attention, with persistent rumours and speculations in the media, as neither of the two publicly talked about it.[398] The couple married on 11 December 2017 in a private ceremony in Florence, Italy.[399] On 11 January 2021, their first child, a girl, was born.[400]Kohli started dating Bollywood actress Anushka Sharma in 2013; the couple soon earned the portmanteau "Virushka".[396][397] Their relationship attracted substantial media attention, with persistent rumours and speculations in the media, as neither of the two publicly talked about it.[398] The couple married on 11 December 2017 in a private ceremony in Florence, Italy.[399] On 11 January 2021, their first child, a girl, was born.[400]</p>
+      <h2>Section One</h2>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam aut
+        amet odio est laborum obcaecati perferendis! Mollitia officiis,
+        consectetur vitae laborum eos expedita reprehenderit nostrum tempore.
+        Atque laborum repudiandae adipisci nihil. Natus cum sapiente culpa
+        excepturi quasi magni quibusdam ipsum accusamus laborum, numquam odit!
+        Nisi repudiandae cumque incidunt tempora explicabo vero in corporis
+        provident quidem quisquam sit, asperiores ullam placeat ut iure pariatur
+        ratione laboriosam totam amet minus. Porro, quam quisquam explicabo
+        rerum labore, tempora officia eveniet mollitia iure a fugiat, magnam at.
+        Vero magni aliquam ea molestias omnis, quia fuga architecto maiores ut
+        magnam! Culpa, cum. Blanditiis, tempore temporibus.
+      </p>
     </section>
-</body>
+    <section class="pimg2">
+      <div class="ptext">
+        <span class="textBg"> Explore Nature</span>
+      </div>
+    </section>
+    <section class="section section-dark">
+      <h2>Section Two</h2>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam aut
+        amet odio est laborum obcaecati perferendis! Mollitia officiis,
+        consectetur vitae laborum eos expedita reprehenderit nostrum tempore.
+        Atque laborum repudiandae adipisci nihil. Natus cum sapiente culpa
+        excepturi quasi magni quibusdam ipsum accusamus laborum, numquam odit!
+        Nisi repudiandae cumque incidunt tempora explicabo vero in corporis
+        provident quidem quisquam sit, asperiores ullam placeat ut iure pariatur
+        ratione laboriosam totam amet minus. Porro, quam quisquam explicabo
+        rerum labore, tempora officia eveniet mollitia iure a fugiat, magnam at.
+        Vero magni aliquam ea molestias omnis, quia fuga architecto maiores ut
+        magnam! Culpa, cum. Blanditiis, tempore temporibus.
+      </p>
+    </section>
+    <section class="pimg3">
+      <div class="ptext">
+        <span class="textBg"> LOOK, DEEP INTO NATURE</span>
+      </div>
+    </section>
+    <section class="section section-dark">
+      <h2>Section Three</h2>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam aut
+        amet odio est laborum obcaecati perferendis! Mollitia officiis,
+        consectetur vitae laborum eos expedita reprehenderit nostrum tempore.
+        Atque laborum repudiandae adipisci nihil. Natus cum sapiente culpa
+        excepturi quasi magni quibusdam ipsum accusamus laborum, numquam odit!
+        Nisi repudiandae cumque incidunt tempora explicabo vero in corporis
+        provident quidem quisquam sit, asperiores ullam placeat ut iure pariatur
+        ratione laboriosam totam amet minus. Porro, quam quisquam explicabo
+        rerum labore, tempora officia eveniet mollitia iure a fugiat, magnam at.
+        Vero magni aliquam ea molestias omnis, quia fuga architecto maiores ut
+        magnam! Culpa, cum. Blanditiis, tempore temporibus.
+      </p>
+    </section>
+    <section class="pimg1">
+      <div class="ptext">
+        <span class="textBg"> Save Nature </span>
+      </div>
+    </section>
+  </body>
 </html>
