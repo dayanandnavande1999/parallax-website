@@ -9,17 +9,19 @@ body {
   color: #666;
 }
 .pimg1 {
-  background-image: url(download1.jpg);
+  background-image: url('https://source.unsplash.com/1600x900/?nature');
   min-height: 100%;
 }
-.pimg2 {
-  background-image: url(download2.jpg);
+.pimg2{
+  background-image: url('https://source.unsplash.com/1600x900/?tree');
   min-height: 400px;
 }
-.pimg3 {
-  background-image: url(download3.jpg);
+.pimg3{
+  background-image: url('https://source.unsplash.com/1600x900/?river');
   min-height: 400px;
 }
+
+
 .pimg1,
 .pimg2,
 .pimg3 {
